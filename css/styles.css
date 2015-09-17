@@ -8,3 +8,11 @@
 body {
   font-family: Arial;
 }
+
+img {
+  width: 200px;
+}
+
+.column p a{
+  font-weight: bold;
+}
